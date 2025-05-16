@@ -8,7 +8,8 @@ Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassio
 
 ## 🧑‍💼 Profilo
 
-Ho scoperto la mia passione per lo sviluppo web durante il percorso formativo con Boolean, iniziando dalle basi con HTML e CSS.
+La mia passione per lo sviluppo web è nata durante il percorso formativo con Boolean.
+Ho iniziato con HTML e CSS, per poi approfondire tecnologie come JavaScript, TypeScript e React, che mi hanno permesso di costruire interfacce dinamiche e moderne.
 Lavorare su progetti reali mi ha permesso di crescere rapidamente, affinando le mie competenze tecniche e alimentando la mia curiosità.
 
 Mi piace combinare competenze tecniche e creatività per creare progetti innovativi e di impatto.
