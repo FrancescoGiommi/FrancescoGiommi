@@ -29,7 +29,8 @@ Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassio
 - Postman  
 - Vite  
 - Ajax  
-- npm   
+- npm
+- Jest   
 
 ---
 
