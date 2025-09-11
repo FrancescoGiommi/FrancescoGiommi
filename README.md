@@ -19,7 +19,7 @@ Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassio
 ### Tecnologie principali
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, TypeScript  
-- **Backend:** MySQL, Node.js, Express  
+- **Backend:** MySQL, Node.js, Express
 
 
 ### Strumenti
@@ -30,7 +30,8 @@ Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassio
 - Vite  
 - Ajax  
 - npm
-- Jest   
+- Jest
+- TDD
 
 ---
 
