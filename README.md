@@ -1,6 +1,6 @@
 # 💻 Francesco Giommi
 
-### Jr Web Developer
+### Jr Full Stack Web Developer
 
 Benvenuto/a sul mio profilo GitHub! Sono un Jr Full Stack Web Developer appassionato di sviluppo web e sempre alla ricerca di nuove sfide e opportunità per crescere professionalmente.
 
