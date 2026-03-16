@@ -46,7 +46,6 @@ Sono una persona curiosa e sempre pronta ad accettare nuove sfide.
 ## 📞 Contatti
 
 - 📧 Email: [francescogiommi97@icloud.com](mailto:francescogiommi97@icloud.com)  
-- 📱 Telefono: +39 3939345823  
 - 💼 LinkedIn: [linkedin.com/in/francesco-giommi-50392834b](https://www.linkedin.com/in/francesco-giommi-50392834b/)  
 - 🧑‍💻 GitHub: [github.com/FrancescoGiommi](https://github.com/FrancescoGiommi)
 
